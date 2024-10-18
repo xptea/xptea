@@ -72,7 +72,6 @@
 
 <div align="center">
   <a href="https://github.com/xptea/WebsNetz">
-    <img src="https://media.discordapp.net/attachments/1163969762200653824/1279669940793639004/338005703-1acb3cc9-ba6e-44bf-8d3c-67991d11db77.png?ex=66d54901&is=66d3f781&hm=44f2f008a7da2907b861fcfb4231874fdbfe758941674892e5569e7afc8ebc23&=&format=webp&quality=lossless" alt="WebsNetz Project Thumbnail" height="300px" />
   </a>
   <p><strong>WebsNetz</strong> is a network diagnostics tool with a command-line interface that provides various network utilities such as ping, DNS lookup, port scanning, and more. This tool is written in C# and targets .NET Core, making it cross-platform and easy to distribute as a standalone executable.</p>
 </div>
