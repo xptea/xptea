@@ -29,13 +29,13 @@
 <div align="center">
   <p><strong>Frontend:</strong> 
     <a href="https://reactjs.org/">
-      <image src="https://img.shields.io/static/v1?label=React&message=Familiar&style=for-the-badge&labelColor=323330&logo=react&color=61DAFB" />
+      <image src="https://img.shields.io/static/v1?label=React&message=Proficient&style=for-the-badge&labelColor=323330&logo=react&color=61DAFB" />
     </a> 
     <a href="https://www.javascript.com/">
       <image src="https://img.shields.io/static/v1?label=JavaScript&message=Proficient&style=for-the-badge&labelColor=323330&logo=javascript&color=F7DF1E" />
     </a> 
     <a href="https://www.typescriptlang.org/">
-      <image src="https://img.shields.io/static/v1?label=TypeScript&message=Familiar&style=for-the-badge&labelColor=323330&logo=typescript&color=3178C6" />
+      <image src="https://img.shields.io/static/v1?label=TypeScript&message=Proficient&style=for-the-badge&labelColor=323330&logo=typescript&color=3178C6" />
     </a>
   </p>
   
