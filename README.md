@@ -1,47 +1,23 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+## Projects
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://discord.gg/https://discord.com/users/1139185365597573180" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://x.com/VoidsWork" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xptea&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=xptea&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xptea/xptea/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xptea/xptea/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xptea/xptea/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+- [VoidNotes](https://github.com/xptea/VoidNotes) — Lightweight, customizable note-taking desktop app built with Go and React.
+- [VWidget](https://github.com/xptea/VWidget) — Modern desktop widget engine.
+- [vcmd](https://github.com/xptea/vcmd) — Bun and TypeScript CLI that turns natural-language requests into shell commands using the Cerebras AI API.
+- [VoidENV](https://github.com/xptea/VoidENV) — C# console application for viewing and managing Windows user and system `PATH` entries.
+- [vwisper](https://github.com/xptea/vwisper) — Tauri voice-to-text desktop application with audio capture, transcription, shortcuts, and text injection.
+- [flappy-bird-Reinforcement-Learning](https://github.com/xptea/flappy-bird-Reinforcement-Learning) — Python reinforcement-learning agent that learns to play Flappy Bird with the REINFORCE algorithm.
+- [upscale](https://github.com/xptea/upscale) — Python image-upscaling project built around a Super-Resolution Convolutional Neural Network.
+- [number-recognition-ai](https://github.com/xptea/number-recognition-ai) — PyTorch handwritten-digit recognizer with an MNIST-trained CNN and interactive drawing interface.
+- [Snake-Reinforcement-Learning](https://github.com/xptea/Snake-Reinforcement-Learning) — PyTorch DQN agent that learns to play Snake using experience replay and a target network.
+- [te](https://github.com/xptea/te) — Tella, an AI-powered command-suggestion tool that returns safe shell-command recommendations.
+- [VGPU-Mon](https://github.com/xptea/VGPU-Mon) — Native Windows GPU process monitor written in C, using WDDM, DXGI, and NVIDIA NVML telemetry.
+- [Void-YT](https://github.com/xptea/Void-YT) — Small C terminal application for downloading authorized media with bundled yt-dlp and on-demand FFmpeg setup.
+- [VShell](https://github.com/xptea/VShell) — Desktop terminal workspace for local shells, SSH sessions, split terminals, and SFTP file management.
+- [vpr](https://github.com/xptea/vpr) — Tauri project organizer and launcher with folders, a sortable project tree, and editor settings.
+- [WebsNetz](https://github.com/xptea/WebsNetz) — Cross-platform C# network-diagnostics CLI with tools such as ping, DNS lookup, and port scanning.
+- [clay-jumper](https://github.com/xptea/clay-jumper) — TypeScript 3D platform-jumping game with generated platforms, enemies, and custom scenes.
+- [JamFlow](https://github.com/xptea/JamFlow) — Next.js interface for an AI-chatbot analytics and prompt-iteration platform.
+- [skibidislicer-go](https://github.com/xptea/skibidislicer-go) — SkibidiSlicer application with a TypeScript-based interface.
+- [TaskPilot](https://github.com/xptea/TaskPilot) — Tauri task and project organization application, also presented as VoidScope.
+- [Tetris](https://github.com/xptea/Tetris) — Python Tetris environment and Deep Q-Network reinforcement-learning agent.
+- [VoidF](https://github.com/xptea/VoidF) — Tauri file manager with directory browsing and navigation history.
