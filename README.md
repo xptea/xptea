@@ -3,13 +3,13 @@
 ## Projects
 
 ### Desktop Apps
+- [VShell](https://github.com/xptea/VShell) — Desktop terminal workspace for local shells, SSH sessions, split terminals, and SFTP file management.
 - [VoidNotes](https://github.com/xptea/VoidNotes) — Lightweight, customizable note-taking desktop app built with Go and React.
 - [VWidget](https://github.com/xptea/VWidget) — Modern desktop widget engine.
 - [vwisper](https://github.com/xptea/vwisper) — Tauri voice-to-text desktop application with audio capture, transcription, shortcuts, and text injection.
 - [skibidislicer-go](https://github.com/xptea/skibidislicer-go) — SkibidiSlicer application with a TypeScript-based interface.
 
 ### CLI, System Tools & Utilities
-- [VShell](https://github.com/xptea/VShell) — Desktop terminal workspace for local shells, SSH sessions, split terminals, and SFTP file management.
 - [VGPU-Mon](https://github.com/xptea/VGPU-Mon) — Native Windows GPU process monitor written in C, using WDDM, DXGI, and NVIDIA NVML telemetry.
 - [Void-YT](https://github.com/xptea/Void-YT) — Small C terminal application for downloading authorized media with bundled yt-dlp and on-demand FFmpeg setup.
 - [vcmd](https://github.com/xptea/vcmd) — Bun and TypeScript CLI that turns natural-language requests into shell commands using the Cerebras AI API.
